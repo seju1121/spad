@@ -1,0 +1,69 @@
+.img1{
+    width: 50%;
+    height: 200px;
+    border-radius: 7%;
+}
+.container{
+    width: 800px;
+    height: 650px;
+    overflow-x: scroll;
+    background-color: blue;
+}
+.main1{
+    position: relative;
+    width: 370px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 7%;
+    background-color: white;
+}
+
+br{
+    margin-bottom: 3px;
+}
+.name1{
+    position: absolute;
+    left: 200px;
+    top: 8%;
+}
+.name2{
+    position: absolute;
+    left: 200px;
+    top: 8%;
+}
+.main2{
+    position: relative;
+    width: 370px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 7%;
+    background-color: white;
+}
+.img2{
+    width: 50%;
+    height: 200px;
+    border-radius: 7%;
+}
+.main3{
+    position: relative;
+    width: 370px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 7%;
+    background-color: white;
+}
+.img3{
+    width: 50%;
+    height: 200px;
+    border-radius: 7%;
+}
+.name3{
+    position: absolute;
+    left: 200px;
+    top: 8%;
+}
+.name4{
+    position: absolute;
+    left: 200px;
+    top: 3%;
+}
